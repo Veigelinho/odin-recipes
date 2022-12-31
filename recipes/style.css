@@ -1,0 +1,43 @@
+a {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a:link,a:visited {
+    border-left-color: none;
+    padding: 5px;
+    font-size: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: none;
+    color: rgb(44, 38, 48);
+}
+
+a:hover {
+    background-color: lightblue;
+}
+
+.mainbar {
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+}
+
+h1 {
+    font-family: Ubuntu, sans-serif;
+    
+    color: rgba(78, 78, 82, 0.5);
+    text-shadow: 2px 2px 2px rgb(66, 66, 228, 0.5);
+}
+
+h2 {
+    font-family: Ubuntu, sans-serif;
+}
+
+ul {
+    list-style-type: upper-roman;
+}
+
+ul li {
+    font-size: 20px;
+
+}
